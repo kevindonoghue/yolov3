@@ -17,6 +17,7 @@
 
 *.cfg
 !cfg/yolov3*.cfg
+!cfg/score_yolo.cfg
 
 runs/*
 data/*
