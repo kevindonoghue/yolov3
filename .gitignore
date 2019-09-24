@@ -29,6 +29,10 @@ data/*
 !data/coco_*.txt
 !data/coco_*.names
 !data/coco_*.txt
+!data/score_yolo.names
+!data/score_yolo.data
+!data.score_yolo_test_images.txt
+!data.score_yolo_train_images.txt
 !data/trainvalno5k.shapes
 !data/5k.shapes
 !data/5k.txt
